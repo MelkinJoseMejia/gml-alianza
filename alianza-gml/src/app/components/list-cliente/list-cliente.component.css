@@ -1,0 +1,11 @@
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+  }
+
+  .space {
+    width: 30px;
+    height: auto;
+    display: inline-block;
+  }
